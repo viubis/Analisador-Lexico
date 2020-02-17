@@ -1,0 +1,5 @@
+var
+const
+typedefa
+var a+b;
+1@1

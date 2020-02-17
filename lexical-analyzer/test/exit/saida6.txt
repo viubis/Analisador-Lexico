@@ -1,0 +1,9 @@
+Linha: 1 | Lexema: var | Tipo: palavraReservada
+Linha: 2 | Lexema: const | Tipo: palavraReservada
+Linha: 3 | Lexema: typedefa | Tipo: identificador
+Linha: 4 | Lexema: var | Tipo: palavraReservada
+Linha: 4 | Lexema: a | Tipo: identificador
+Linha: 4 | Lexema: + | Tipo: opAritmetico
+Linha: 4 | Lexema: b | Tipo: identificador
+Linha: 4 | Lexema: ; | Tipo: delimitador
+ERRO: 5  1@1  numeroErrado  

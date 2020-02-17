@@ -1,0 +1,4 @@
+"cadeia_de Caractere"
+"sem fechar
+"simboloInvalido£"
+"esse treco aqui \" que num sei pra que tem que botar"

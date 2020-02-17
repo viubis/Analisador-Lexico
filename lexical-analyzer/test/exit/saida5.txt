@@ -1,0 +1,30 @@
+Linha: 1 | Lexema: + | Tipo: opAritmetico
+Linha: 2 | Lexema: ++ | Tipo: opAritmetico
+Linha: 3 | Lexema: ++ | Tipo: opAritmetico
+Linha: 3 | Lexema: + | Tipo: opAritmetico
+Linha: 4 | Lexema: - | Tipo: opAritmetico
+Linha: 5 | Lexema: -- | Tipo: opAritmetico
+Linha: 6 | Lexema: -- | Tipo: opAritmetico
+Linha: 6 | Lexema: - | Tipo: opAritmetico
+Linha: 7 | Lexema: * | Tipo: opAritmetico
+Linha: 8 | Lexema: / | Tipo: opArimetico
+Linha: 9 | Lexema: < | Tipo: opRelacional
+Linha: 10 | Lexema: = | Tipo: opRelacional
+Linha: 11 | Lexema: > | Tipo: opRelacional
+Linha: 12 | Lexema: != | Tipo: opRelacional
+Linha: 13 | Lexema: <= | Tipo: opRelacional
+Linha: 14 | Lexema: >= | Tipo: opRelacional
+Linha: 15 | Lexema: ! | Tipo: opLogico
+Linha: 17 | Lexema: && | Tipo: opLogico
+Linha: 19 | Lexema: || | Tipo: opLogico
+Linha: 20 | Lexema: ; | Tipo: delimitador
+Linha: 21 | Lexema: , | Tipo: delimitador
+Linha: 22 | Lexema: ( | Tipo: delimitador
+Linha: 23 | Lexema: ) | Tipo: delimitador
+Linha: 24 | Lexema: [ | Tipo: delimitador
+Linha: 25 | Lexema: ] | Tipo: delimitador
+Linha: 26 | Lexema: { | Tipo: delimitador
+Linha: 27 | Lexema: } | Tipo: delimitador
+Linha: 28 | Lexema: . | Tipo: delimitador
+ERRO: 16  &  opLogicoErrado  
+ERRO: 18  |  opLogicoErrado  

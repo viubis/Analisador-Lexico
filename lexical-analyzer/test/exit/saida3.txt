@@ -1,0 +1,7 @@
+Linha: 1 | Lexema: id_1 | Tipo: identificador
+Linha: 2 | Lexema: ID_1 | Tipo: identificador
+Linha: 3 | Lexema: id1 | Tipo: identificador
+Linha: 4 | Lexema: ID1 | Tipo: identificador
+Linha: 5 | Lexema: iD1 | Tipo: identificador
+ERRO: 6  id%  identificadorErrado  
+ERRO: 7  id@  identificadorErrado  

@@ -1,0 +1,9 @@
+Linha: 1 | Lexema: // verificar comentario de linha  | Tipo: comentario
+Linha: 2 | Lexema: /*verificar  comentario  de bloco*/ | Tipo: comentario
+Linha: 5 | Lexema: / | Tipo: opArimetico
+Linha: 6 | Lexema: //de linha em   | Tipo: comentario
+Linha: 7 | Lexema: bloco | Tipo: identificador
+Linha: 7 | Lexema: //  | Tipo: comentario
+Linha: 9 | Lexema: erro | Tipo: identificador
+Linha: 9 | Lexema: * | Tipo: opAritmetico
+ERRO: 8  /*erro /*  comentarioErrado  

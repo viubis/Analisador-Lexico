@@ -1,0 +1,13 @@
+Linha: 1 | Lexema: "cadeia_de Caractere" | Tipo: cadeiaDeCaractere
+Linha: 4 | Lexema: "esse treco aqui \" | Tipo: cadeiaDeCaractere
+Linha: 4 | Lexema: que | Tipo: identificador
+Linha: 4 | Lexema: num | Tipo: identificador
+Linha: 4 | Lexema: sei | Tipo: identificador
+Linha: 4 | Lexema: pra | Tipo: identificador
+Linha: 4 | Lexema: que | Tipo: identificador
+Linha: 4 | Lexema: tem | Tipo: identificador
+Linha: 4 | Lexema: que | Tipo: identificador
+Linha: 4 | Lexema: botar | Tipo: identificador
+ERRO: 3  "sem fechar   cadeiaDeCaractereErrada  
+ERRO: 4  "simboloInvalido�"  cadeiaDeCaractereErrada  
+ERRO: 5  "   cadeiaDeCaractereErrada  

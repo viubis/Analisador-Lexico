@@ -1,0 +1,27 @@
+Linha: 1 | Lexema: 6546546546 | Tipo: numero
+Linha: 2 | Lexema: 456 | Tipo: numero
+Linha: 2 | Lexema: . | Tipo: delimitador
+Linha: 2 | Lexema: 46465 | Tipo: numero
+Linha: 3 | Lexema: -468464 | Tipo: numero
+Linha: 4 | Lexema: -4556 | Tipo: numero
+Linha: 4 | Lexema: . | Tipo: delimitador
+Linha: 4 | Lexema: 465456 | Tipo: numero
+Linha: 5 | Lexema: -4646466 | Tipo: numero
+Linha: 6 | Lexema: -46464 | Tipo: numero
+Linha: 6 | Lexema: . | Tipo: delimitador
+Linha: 6 | Lexema: 466 | Tipo: numero
+Linha: 10 | Lexema: 1 | Tipo: numero
+Linha: 10 | Lexema: . | Tipo: delimitador
+Linha: 11 | Lexema: 233 | Tipo: numero
+Linha: 11 | Lexema: . | Tipo: delimitador
+Linha: 11 | Lexema: 23 | Tipo: numero
+Linha: 11 | Lexema: . | Tipo: delimitador
+Linha: 11 | Lexema: 2323 | Tipo: numero
+Linha: 12 | Lexema: 3 | Tipo: numero
+Linha: 12 | Lexema: , | Tipo: delimitador
+Linha: 12 | Lexema: 3 | Tipo: numero
+Linha: 13 | Lexema: -- | Tipo: opAritmetico
+Linha: 13 | Lexema: 3 | Tipo: numero
+ERRO: 7  -5465fdf6  numeroErrado  
+ERRO: 8  464f  numeroErrado  
+ERRO: 9  645646$  numeroErrado  
